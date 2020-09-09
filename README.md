@@ -1,6 +1,7 @@
 # MC-Prototype
 
-What is MobileCoach
+What is MobileCoach? 
+
 The vision of the MobileCoach platform is to create smart fully-automated digital interventions.
 
 Due to a modular and extendable structure as well as an architecture rooted in the logics and legal claims of open-source software, the MobileCoach lays a fruitful ground for digital interventions in several application domains of behavior change. For example, the MobileCoach can be used to design and evaluate digital health interventions in the context of smoking cessation, nutrition and physical activity and many more.
